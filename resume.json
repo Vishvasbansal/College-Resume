@@ -1,0 +1,67 @@
+{
+	"basics": {
+		"name": "Vishvas Bansal",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kuec2031@iiitkota.ac.in",
+		"phone": "+917340267750",
+		"website": "Enter Link of website(if any) ",
+		"summary": "A student of Electronics and Communication at IIIT, Kota with keen Interest in Web Development and Competitive Programming. I'm Enthusiastic quick learner and can grasp new things quickly.",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://twitter.com/vishvasbansal"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/Vishvasbansal"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/vishvas-bansal-88b181191/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/vishvasbansal/"
+			}
+		]
+	},
+	"work": [],
+	"volunteer": [],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-05-08",
+		"endDate": "-",
+		"gpa": "8.34",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"awards": [],
+	"publications": [{
+		"title": "Flappy Bird",
+		"details": "Game built using Javascript",
+		"link": "https://vishvasbansal.github.io/Flappy-Bird/"
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "Bootstrap", "C/C++", "JQuery"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Cricket"]
+	}],
+	"references": []
+}
