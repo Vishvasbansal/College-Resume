@@ -16,22 +16,22 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
+				"username": "vishvasbansal",
 				"url": "https://twitter.com/vishvasbansal"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "Vishvasbansal",
 				"url": "https://github.com/Vishvasbansal"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
+				"username": "Vishvas Bansal",
 				"url": "https://www.linkedin.com/in/vishvas-bansal-88b181191/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "vishvasbansal",
 				"url": "https://www.instagram.com/vishvasbansal/"
 			}
 		]
