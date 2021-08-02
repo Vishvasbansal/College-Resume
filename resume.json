@@ -2,10 +2,10 @@
 	"basics": {
 		"name": "Vishvas Bansal",
 		"label": "Student",
-		"picture": "",
+		"picture": "https://raw.githubusercontent.com/Vishvasbansal/College-Resume/main/profile.jpg",
 		"email": "2019kuec2031@iiitkota.ac.in",
 		"phone": "+917340267750",
-		"website": "",
+		"website": "---",
 		"summary": "A student of Electronics and Communication at IIIT, Kota with keen Interest in Web Development and Competitive Programming. I'm Enthusiastic quick learner and can grasp new things quickly.",
 		"location": {
 			"address": "",
@@ -36,8 +36,6 @@
 			}
 		]
 	},
-	"work": [],
-	"volunteer": [],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
@@ -49,7 +47,6 @@
 			"Electronics and Communication Engineering"
 		]
 	}],
-	"awards": [],
 	"publications": [{
 		"title": "Flappy Bird",
 		"details": "Game built using Javascript",
