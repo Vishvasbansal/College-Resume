@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Vishvas Bansal",
 		"label": "Student",
-		"picture": "https://raw.githubusercontent.com/Vishvasbansal/College-Resume/main/profile.jpg",
+		"picture": "https://raw.githubusercontent.com/Vishvasbansal/College-Resume/main/profile.jpeg",
 		"email": "2019kuec2031@iiitkota.ac.in",
 		"phone": "+917340267750",
 		"website": "---",
@@ -41,7 +41,7 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2019-05-08",
-		"endDate": "-",
+		"endDate": "Present",
 		"gpa": "8.34",
 		"courses": [
 			"Electronics and Communication Engineering"
